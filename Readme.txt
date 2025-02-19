@@ -1,0 +1,1 @@
+Basicly, it`s the script, that uses regex to find an information in the file, like passwords and emails etc.
